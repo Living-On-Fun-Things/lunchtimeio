@@ -1,7 +1,7 @@
 # Getting Started with Lunchtime.IO
-Lunchtime.IO is a community management tool designed to automate community call creation, advertise virtual events and measure community engagement.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project has been deployed using Firebase Hosting (https://lunchtimeio.web.app/)
+Lunchtime.IO is a community management tool designed to automate community call creation, advertise virtual events and measure community engagement. \
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
+This project has been deployed using Firebase Hosting (https://lunchtimeio.web.app/) \
 
 ## Available Scripts
 
