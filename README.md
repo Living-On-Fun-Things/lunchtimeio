@@ -38,7 +38,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ### Deployment
-Assuming you are using Firebase to host, first run <code> firebase init </code> and select Deployment as an option
-Create a new Firebase instance for your organization, and then, run <code> firebase login </code> to login to your Google account.
-Build first using <code> npm run-script build </code> 
+Assuming you are using Firebase to host, first run <code> firebase init </code> and select Deployment as an option \
+Create a new Firebase instance for your organization, and then, run <code> firebase login </code> to login to your Google account. \
+Build first using <code> npm run-script build </code> \
 Then deploy to your firebase app as <code> firebase deploy </code>
